@@ -1,0 +1,9 @@
+{
+	"id": "open-claude-code",
+	"name": "Open Claude Code",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Right-click a folder to open Claude Code in a terminal at that location.",
+	"author": "bpardi",
+	"isDesktopOnly": true
+}
